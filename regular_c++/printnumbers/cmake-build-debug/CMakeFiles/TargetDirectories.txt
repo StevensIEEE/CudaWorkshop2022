@@ -1,0 +1,3 @@
+/home/bmirisola/CLionProjects/IEEE_cuda/regular_c++/printnumbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bmirisola/CLionProjects/IEEE_cuda/regular_c++/printnumbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bmirisola/CLionProjects/IEEE_cuda/regular_c++/printnumbers/cmake-build-debug/CMakeFiles/printnumbers.dir

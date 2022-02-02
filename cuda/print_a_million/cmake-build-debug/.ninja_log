@@ -1,0 +1,7 @@
+# ninja log v5
+1052	1122	1643658808497220808	print_a_million	acc94e7a0737bee3
+1004	1052	1643658808429207255	CMakeFiles/print_a_million.dir/cmake_device_link.o	caa21eaae3cfbde0
+0	1004	1643658808381197689	CMakeFiles/print_a_million.dir/main.cu.o	67c01410f735ff46
+1	1346	1643684593603363706	CMakeFiles/print_a_million.dir/main.cu.o	67c01410f735ff46
+1346	1386	1643684593643364113	CMakeFiles/print_a_million.dir/cmake_device_link.o	caa21eaae3cfbde0
+1386	1476	1643684593731365008	print_a_million	acc94e7a0737bee3

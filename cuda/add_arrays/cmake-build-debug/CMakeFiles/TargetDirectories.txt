@@ -1,0 +1,3 @@
+/home/bmirisola/CLionProjects/IEEE_cuda/cuda/add_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bmirisola/CLionProjects/IEEE_cuda/cuda/add_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bmirisola/CLionProjects/IEEE_cuda/cuda/add_arrays/cmake-build-debug/CMakeFiles/add_arrays.dir

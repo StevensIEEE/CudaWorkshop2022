@@ -1,0 +1,7 @@
+# ninja log v5
+1139	1211	1643663540101880216	add_array	454838e051600cad
+1	1099	1643663539985852474	CMakeFiles/add_array.dir/main.cu.o	612ece6c7dcc29af
+1099	1139	1643663540029862988	CMakeFiles/add_array.dir/cmake_device_link.o	6eeb3cfff89f0cf0
+1	1031	1643663787331371879	CMakeFiles/add_array.dir/main.cu.o	612ece6c7dcc29af
+1031	1069	1643663787371364626	CMakeFiles/add_array.dir/cmake_device_link.o	6eeb3cfff89f0cf0
+1069	1155	1643663787455349394	add_array	454838e051600cad

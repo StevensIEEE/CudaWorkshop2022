@@ -1,0 +1,4 @@
+# ninja log v5
+0	956	1643657575722541255	CMakeFiles/print_nums.dir/main.cu.o	eb7a9e52a2e787eb
+956	988	1643657575754544710	CMakeFiles/print_nums.dir/cmake_device_link.o	8fd03ad536266075
+988	1040	1643657575806550325	print_nums	e9c9a5199f0da130
